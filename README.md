@@ -4,13 +4,12 @@
 
 - 2021/2/7 First plot completed, updated folders, updated readme
 - 2021/2/5 Creation
-
+  
 ## Contents
 
 - About
 - Circular Axis Plot
-
-
+  
 ## About
 
 This repository is for ideas on analyzing time series data. The repository is 
@@ -21,7 +20,7 @@ machine learning applied.
 Folder structure: 
 - *data* is where all data files will reside. 
 - *figs* is where all figures will be sent as a *.png* file type.
-
+  
 ## Circular Axis Plot
 
 #### Data
