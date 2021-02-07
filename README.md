@@ -1,16 +1,20 @@
-# time-series-analysis
+# Time Series Analysis and Visualizations
+
+This is a personal project to work on time series data.
 
 ## Changelog
 
 - 2021/2/7 First plot completed, updated folders, updated readme
 - 2021/2/5 Creation
-  
+
+
 ## Contents
 
-- About
-- Circular Axis Plot
-  
-## About
+- [About](#about)
+- [Circular Axis Plot](#circular-axis-plot)
+
+
+## General Info
 
 This repository is for ideas on analyzing time series data. The repository is 
 structured with several folders in mind. The goal is to test different methods 
@@ -20,8 +24,19 @@ machine learning applied.
 Folder structure: 
 - *data* is where all data files will reside. 
 - *figs* is where all figures will be sent as a *.png* file type.
-  
+
+
 ## Circular Axis Plot
+
+#### About
+
+Language:
+- R
+
+Packages:
+- tidyverse
+- ggplot2
+
 
 #### Data
 

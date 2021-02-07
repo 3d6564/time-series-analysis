@@ -4,10 +4,8 @@
 ### every hour and every day for n years.
 
 ## Packages and Libraries
-require("plotrix")
 install.packages("tidyverse")
 install.packages("ggplot2")
-install.packages("lubridate")
 library("ggplot2")
 
 ## Data Import
@@ -38,3 +36,6 @@ ggplot(data, mapping=aes(x=time, y=day)) +
         axis.text.x=element_text(family=""),
         axis.text.y=element_text(family="")) +
   expand_limits(x=0) # corrects x axis start point
+
+## Save plot
+ggsave("figs/0_event-category-hourday.png")
