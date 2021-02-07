@@ -10,7 +10,7 @@ This is a personal project to work on time series data.
 
 ## Contents
 
-- [About](#about)
+- [General Info](#general-info)
 - [Circular Axis Plot](#circular-axis-plot)
 
 
