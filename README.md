@@ -2,8 +2,8 @@
 
 ## Changelog
 
-2021/2/7 First plot completed, updated folders, updated readme
-2021/2/5 Creation
+- 2021/2/7 First plot completed, updated folders, updated readme
+- 2021/2/5 Creation
 
 ## Contents
 
